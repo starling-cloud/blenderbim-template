@@ -1,2 +1,2 @@
-# blenderbim-template
-BlenderBIM Tempalte
+# BlenderBIM Template
+
